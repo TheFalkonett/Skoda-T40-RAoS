@@ -1,0 +1,10 @@
+<gun_01.model>
+  <tank>	true	</tank>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-0.318512 -0.305519 -0.0934453</min>
+    <max>0.318512 0.341886 3.82231</max>
+  </visibilityBox>
+  <nodefullVisual>vehicles/czech/Cz01_Skoda_T40/normal/lod0/Gun_01</nodefullVisual>
+</gun_01.model>
